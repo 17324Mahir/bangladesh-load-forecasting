@@ -1,6 +1,6 @@
 # Reproduce the ICCIT reviewer checks
 
-Run these commands from the repository root on the `codex/iccit-review-robustness` branch. The original notebooks on this branch come from commit `65c5199aae72f71f87b1a24ecfaff4ac7a0fb21d`. The scripts reuse their preprocessing, features, conformal code and Keras model definitions. Colab mounting, interactive upload and plotting are skipped in the local preparation.
+Run these commands in order from the repository root on `main`, using the same terminal for all three steps. The original notebooks come from [commit `65c5199`](https://github.com/17324Mahir/bangladesh-load-forecasting/commit/65c5199aae72f71f87b1a24ecfaff4ac7a0fb21d). The scripts reuse their preprocessing, features, conformal code and Keras model definitions. The local preparation skips Colab mounting, interactive upload and plotting.
 
 ## 1. Rebuild the original inputs
 
