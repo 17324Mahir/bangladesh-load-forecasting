@@ -1,0 +1,7 @@
+split,audit,eligible_days,feature_ready_days,complete_target_days
+test,retrospective,709,737,767
+train,retrospective,2236,2394,2593
+validation,retrospective,273,299,331
+test,past_only,709,737,767
+train,past_only,2219,2382,2585
+validation,past_only,273,299,331

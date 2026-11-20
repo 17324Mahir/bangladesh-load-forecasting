@@ -1,0 +1,7 @@
+metric,units,block_eligible_days,paired_dates,mean_past_only_minus_retrospective,lower_95,upper_95
+ridge_mae,MW,7,709,-4.92412022,-9.00566369,-0.76099633
+hour_coverage,percentage points,7,709,-0.02452934,-0.36794015,0.30048445
+regime_hour_coverage,percentage points,7,709,-0.00000000,-0.28837309,0.30661679
+ridge_mae,MW,14,709,-4.92412022,-9.32448036,-0.60496930
+hour_coverage,percentage points,14,709,-0.02452934,-0.38020482,0.32501380
+regime_hour_coverage,percentage points,14,709,-0.00000000,-0.30048445,0.27595511

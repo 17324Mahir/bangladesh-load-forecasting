@@ -1,0 +1,12 @@
+measure,count
+source_records,94934
+severe_all_timestamps,69
+hourly_records,90495
+excluded_hourly_targets,52
+review_hourly_targets,22
+withheld_hourly_targets,74
+withheld_meeting_first_stage_severity,66
+withheld_other,8
+usable_hourly_targets,90421
+usable_midnight,2
+usable_01_to_23,90419

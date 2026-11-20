@@ -17,4 +17,6 @@ This work presents a reliability-oriented framework for next-day electricity dem
 - Statistical ablation and robustness evaluation
 - ERA5-based weather feature diagnostics
 
-## Repository Structure
+## Reproduce the reviewer-requested checks
+
+The [reproduction guide](reviewer_checks/README.md) gives the versioned PGCB input, environment files, run order, and results for the audit replay, interval sensitivities and five-seed matched-input comparison. The original experiment notebooks are in [notebooks](notebooks/).
